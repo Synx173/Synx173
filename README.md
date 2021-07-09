@@ -1,4 +1,4 @@
-# Synx173
+# TheSynx
 
 A Minecraft Developer.
 ..
