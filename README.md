@@ -1,4 +1,3 @@
 # TheSynx
 
 A Minecraft Developer.
-..
