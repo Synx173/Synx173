@@ -1,3 +1,3 @@
 # TheSynx
 
-A Minecraft Developer.
+A Minecraft Mod Developer.
